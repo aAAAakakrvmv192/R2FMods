@@ -1,5 +1,7 @@
 # Right 2 Fight mods by Mark#9919
 
+This is where I put my Right 2 Fight mods. Feel free to check it out and credit me if you use them in a video.
+
 # Character Voice Mod for Right 2 Fight
 
 A purely visual Right 2 Fight mod which allows you to play the voicelines of 4 different characters when doing certain actions.
