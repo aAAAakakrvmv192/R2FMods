@@ -22,7 +22,7 @@ The process of making code look unreadable to humans, but able to be processed b
   ### I found a bug/I have a suggestion!
 DM Mark#9919.
 
-# Character Morph Mod
+# Character Morph Mod (Credits to Narmie)
 
 Ever wanted to look like the Legendary Dragon himself, or any other enemy? With this mod, you can!
 
